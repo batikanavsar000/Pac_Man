@@ -23,7 +23,6 @@ Hardware Setup
 | TFT RST | GPIO 4 |
 
 Roadmap
-- [ ] Implement game loading from SD Card module .
 - [ ] Integration of Li-po battery and charging circuit.
 - [ ] Custom 3D-printed portable enclosure design.
 - [ ] Sound effect support via buzzer or I2S amplifier.
