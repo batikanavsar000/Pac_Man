@@ -1,7 +1,12 @@
 # ESP32 Handheld Retro Console - Phase 1: Pac-Man
 
 This project is the first phase of a customizable handheld console developed using the ESP32 microcontroller. Currently, core Pac-Man mechanics, LCD screen integration, and keypad controls are fully functional.
-
+![image](Pac_Man1.jpeg)
+<h><h>
+![image](Pac_Man2.jpeg)
+<h><h>
+![image](Pac_Man3.jpeg)
+<h><h>
 
 
 Features (Phase 1)
